@@ -1,37 +1,43 @@
-名前　遠山　楓也
-所属　ITカッレジ沖縄　情報工学コース２年　
+# 🌸 遠山 楓也（Fuuya Toyama）
 
-情報系を専攻し、幅広くIT技術を学びながら、実践的な開発に取り組んでいます。
-個人やグループでのWebアプリ開発、APIを活用したシステム開発、AIを活用したアプリ開発など、実際に手を動かして経験を積んでいます。
-フロントエンドからバックエンド、データベース、環境構築まで幅広く学習しています。
+🎓 ITカレッジ沖縄 情報工学コース 2年  
+💻 情報系を専攻し、幅広くIT技術を学びながら、実践的な開発に取り組んでいます。
 
-Python Java JavaScript HTML SQL
-React,Next.js,Node.js
-Linux（開発環境として常用）
-IntelliJ IDEA / VS Code / Git / Docker
+---
 
-開発現場でさまざまな人と関わりながら、自分のスキルを向上させ、より多くのことを学びたいと考えています。
-また、AIなどの先端技術を活用して、より良いものを作り、少しでも人々の生活や社会を便利にする仕事に携わりたいです。
+## 🧠 About Me
+個人・グループ問わず、**Webアプリ開発・API連携・AIを活用したアプリ開発**など、  
+実際に手を動かしながらスキルを磨いています。  
+フロントエンドからバックエンド、データベース、環境構築まで幅広く学習中です。
+
+> 「より良いものを作り、少しでも人々の生活や社会を便利にする」  
+> そんなエンジニアを目指しています。
+
+---
+
+## 🛠 Skills
+
+**Languages & Frameworks**  
+- Python / Java / JavaScript / HTML / SQL  
+- React / Next.js / Node.js  
+
+**Tools & Environments**  
+- Linux（開発環境として常用）  
+- IntelliJ IDEA / VS Code / Git / Docker  
+
+---
+
+## 💡 What I'm Interested In
+- AI・機械学習を活用したアプリ開発  
+- Webサービスの設計・実装・運用  
+- チーム開発やオープンソースへの貢献  
+
+---
+
+## 🚀 Goals
+- 開発現場で多様な人と関わりながらスキルを磨く  
+- 実践的なプロジェクトを通して社会に貢献できるエンジニアになる  
 
 
+新しい技術や開発に積極的に挑戦していきます！
 
-
-
-
-
-
-
-<!--
-**itc-s24020/itc-s24020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
