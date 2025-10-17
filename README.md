@@ -1,36 +1,32 @@
-#  遠山 楓也（Fuuya Toyama）
+# 遠山 楓也（Fuuya Toyama）
 
 🎓 **ITカレッジ沖縄 情報工学コース 2年**  
 💻 情報工学を専攻し、WebアプリやAIを活用した開発を中心に学習しています。  
 
-個人・グループ問わず、**Webアプリ開発・API連携・AIを活用したアプリ開発**などに取り組み、  
+個人・グループ問わず、**Webアプリ開発・API連携・AI活用アプリ開発**などに取り組み、  
 実際に手を動かしながらスキルを磨いています。  
-フロントエンドからバックエンド、データベース、環境構築まで、幅広く学習を進めています。
+フロントエンドからバックエンド、データベース、環境構築まで幅広く学習しています。
 
 ---
 
 ## 🛠 スキルセット
 
 ### 💻 言語・フレームワーク
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
----
-
 ### 🧰 開発環境・ツール
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
 
 ---
 
@@ -48,8 +44,31 @@
 
 ---
 
-## 📬 連絡先
-✉️ **Eメール：s24020@std.it-college.ac.jp**
+## 📂 プロジェクト紹介
+
+### Recipe Search
+- **概要**：ユーザーが持っている食材をもとにレシピを検索できるWebアプリ  
+- **デモ**：[https://recipe-seach.vercel.app](https://recipe-seach.vercel.app)  
+- **使用技術**：Next.js, TheMealDB API, Firebase (Authentication, Firestore), VS Code  
+- **主な機能**：
+  - ユーザー認証（ログイン・ログアウト）  
+  - 食材によるレシピ検索  
+  - レシピ詳細表示  
+  - お気に入り登録 / 削除  
+- **私の担当**：ログイン機能の実装（[コードはこちら](https://github.com/itc-s24020/My-Recipe-Search/tree/main/app/sign_up)）  
+- **学んだこと / 工夫**：
+  - Firebase Authenticationを用いた安全なユーザー認証  
+  - チームでの効率的な役割分担と連携  
+  - AIを活用した開発効率化  
+  - UI/UXの改善とレスポンシブデザイン対応  
+- **今後の改善案**：
+  - レシピ翻訳機能（多言語対応）  
+  - お気に入りレシピ保存機能の拡張  
+  - ソーシャルログインなどのログイン連携  
+
+- **GitHubリポジトリ**：[https://github.com/itc-s24020/My-Recipe-Search](https://github.com/itc-s24020/My-Recipe-Search)
 
 ---
 
+## 📬 連絡先
+✉️ **Eメール：s24020@std.it-college.ac.jp**
