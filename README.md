@@ -44,31 +44,5 @@
 
 ---
 
-## 📂 プロジェクト紹介
-
-### Recipe Search
-- **概要**：ユーザーが持っている食材をもとにレシピを検索できるWebアプリ  
-- **デモ**：[https://recipe-seach.vercel.app](https://recipe-seach.vercel.app)  
-- **使用技術**：Next.js, TheMealDB API, Firebase (Authentication, Firestore), VS Code  
-- **主な機能**：
-  - ユーザー認証（ログイン・ログアウト）  
-  - 食材によるレシピ検索  
-  - レシピ詳細表示  
-  - お気に入り登録 / 削除  
-- **私の担当**：ログイン機能の実装（[コードはこちら](https://github.com/itc-s24020/My-Recipe-Search/tree/main/app/sign_up)）  
-- **学んだこと / 工夫**：
-  - Firebase Authenticationを用いた安全なユーザー認証  
-  - チームでの効率的な役割分担と連携  
-  - AIを活用した開発効率化  
-  - UI/UXの改善とレスポンシブデザイン対応  
-- **今後の改善案**：
-  - レシピ翻訳機能（多言語対応）  
-  - お気に入りレシピ保存機能の拡張  
-  - ソーシャルログインなどのログイン連携  
-
-- **GitHubリポジトリ**：[https://github.com/itc-s24020/My-Recipe-Search](https://github.com/itc-s24020/My-Recipe-Search)
-
----
-
 ## 📬 連絡先
 ✉️ **Eメール：s24020@std.it-college.ac.jp**
