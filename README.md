@@ -65,7 +65,36 @@
 ### リンク
 - **GitHub**：https://github.com/itc-s24020/My-Recipe-Search
 - **デモサイト**：https://recipe-seach.vercel.app
+  
+# ⚽ W杯注目国・選手サイト
 
+| 項目 | 詳細 |
+|------|------|
+| **開発期間** | 2週間（個人開発） |
+| **開発の役割** | 企画・設計から実装、デプロイまで全工程を担当 |
+| **フレームワーク** | Next.js (App Router) |
+| **言語** | TypeScript |
+| **データ管理** | microCMS |
+| **リンター** | ESLint |
+| **デプロイ** | Vercel |
+
+### 概要
+2026年FIFAワールドカップの注目国と注目選手をピックアップし紹介するWebアプリケーション。情報発信と、モダンな技術スタック習得を目的として開発。
+
+### 実装内容
+- Next.jsのApp RouterとTypeScriptを使用した最新技術スタックの構築
+- microCMS を導入し、コンテンツ管理とデータ取得の仕組みを実装
+- ESLintによるコード品質の管理
+
+### 達成・学び
+- ✅ Next.jsのApp RouterとTypeScriptを使用した開発を習得
+- ✅ microCMS を導入し、コンテンツ管理とデータ取得の仕組みを実装
+- ✅ 企画からデプロイ（Vercel）まで、Webサイト開発の全工程を一人で完遂し、実践的なスキルを習得
+
+### リンク
+- **GitHub**：https://github.com/itc-s24020/worldcup-guide-2026
+- **デモサイト**：https://worldcup-guide-2026-2yoo.vercel.app/
+- 
 ## 🚀 目標
 実践的な開発を通して技術力とチームワークを高め、  
 ユーザーにとって**便利で信頼性の高いサービス**を提供できるエンジニアを目指しています。  
